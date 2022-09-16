@@ -5,6 +5,7 @@ import { themes } from "../libs/themes";
 import { ThemeContext } from "../context/ThemeContext";
 import Todolist from "../components/Todolist";
 import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
 export default function lab07() {
   const [todoInput, setTodo] = useState("");
@@ -148,6 +149,7 @@ export default function lab07() {
           made by Nat Ucharattana 640610632
         </p>
       </div>
+      <Footer />
     </div>
   );
 }
