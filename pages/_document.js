@@ -10,6 +10,10 @@ export default function Document() {
           integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx"
           crossOrigin="anonymous"
         />
+        <link
+          href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Thai&display=swap"
+          rel="stylesheet"
+        />
       </Head>
       <body>
         <Main />

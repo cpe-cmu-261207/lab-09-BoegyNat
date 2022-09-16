@@ -14,3 +14,25 @@ a {
 * {
   box-sizing: border-box;
 }
+
+a {
+  text-decoration: none;
+  color: aliceblue;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
+h1 {
+  color: aliceblue;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
+h2 {
+  color: aliceblue;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
+h5 {
+  color: aliceblue;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
+p {
+  color: aliceblue;
+  font-family: "IBM Plex Sans Thai", sans-serif;
+}
